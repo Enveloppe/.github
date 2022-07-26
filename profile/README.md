@@ -5,7 +5,7 @@ Mkdocs Obsidian is an association between an Obsidian plugin and a Material mkdo
 Made with :heart: by [@Mara-Li](https://github.com/Mara-Li)
 
 ## Useful links : 
-- [Documentation](https://obsidianpublisher.github.io/obsidian-mkdocs-publisher-docs/)
+- [Documentation](https://obsidian-publisher.netlify.app/)
 - [Obsidian Plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher)
 - [Mkdocs Template](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-template)
 
