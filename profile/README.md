@@ -1,6 +1,6 @@
 # Obsidian Publisher
 
-Mkdocs Obsidian is an association between an Obsidian plugin and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault.... For free.
+Obsidian Publisher is an association between an Obsidian plugin and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault.... For free.
 
 Made with :heart: by [@Mara-Li](https://github.com/Mara-Li)
 
