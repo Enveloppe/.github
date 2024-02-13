@@ -1,12 +1,11 @@
 # Obsidian Publisher
 
-Obsidian Publisher is an association between an Obsidian plugin and a Material Mkdocs template to get a personal wiki site based on your Obsidian Vault.... For free.
+Obsidian Publisher is a remarkable project that enables you to effortlessly transmit files (via GitHub) and apply numerous advanced transformations to create your very own personalized wiki site... at absolutely no cost!
 
 Made with :heart: by [@Mara-Li](https://github.com/Mara-Li)
 
-## Useful links : 
+## Useful links
 - [Documentation](https://obsidian-publisher.netlify.app/)
-- [Obsidian Plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher) (website agnostic!)
-- [Template](https://github.com/ObsidianPublisher/publisher-template-gh-pages)
+- [Obsidian Plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher) 
 
 <p align="center"><a href="https://ko-fi.com/MaraLi__"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MaraLi__" /></a></p>
