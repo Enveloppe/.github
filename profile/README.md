@@ -1,11 +1,11 @@
-# Obsidian Publisher
+# Enveloppe: An Obsidian Vault GitHub Publisher
 
-Obsidian Publisher is a remarkable project that enables you to effortlessly transmit files (via GitHub) and apply numerous advanced transformations to create your very own personalized wiki site... at absolutely no cost!
+Enveloppe is a remarkable project that enables you to effortlessly transmit files (via GitHub) and apply numerous advanced transformations to create your very own personalized wiki site... at absolutely no cost!
 
 Made with :heart: by [@Mara-Li](https://github.com/Mara-Li)
 
 ## Useful links
-- [Documentation](https://obsidian-publisher.netlify.app/)
-- [Obsidian Plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher) 
+- [Documentation](https://enveloppe.github.io/)
+- [Obsidian Plugin](https://github.com/Enveloppe/obsidian-enveloppe) 
 
-<p align="center"><a href="https://ko-fi.com/MaraLi__"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MaraLi__" /></a></p>
+<p align="center"><a href="https://ko-fi.com/Mara__Li"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Mara-Li" /></a></p>
